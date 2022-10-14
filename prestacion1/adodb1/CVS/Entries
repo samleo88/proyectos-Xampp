@@ -1,0 +1,35 @@
+/adodb-csvlib.inc.php/1.2/Thu Sep  6 16:02:44 2007//
+/adodb-datadict.inc.php/1.2/Thu Sep  6 16:02:45 2007//
+/adodb-error.inc.php/1.2/Thu Sep  6 16:02:45 2007//
+/adodb-errorhandler.inc.php/1.2/Thu Sep  6 16:02:44 2007//
+/adodb-errorpear.inc.php/1.2/Thu Sep  6 16:02:44 2007//
+/adodb-exceptions.inc.php/1.2/Thu Sep  6 16:02:45 2007//
+/adodb-iterator.inc.php/1.2/Thu Sep  6 16:02:44 2007//
+/adodb-lib.inc.php/1.2/Thu Sep  6 16:02:44 2007//
+/adodb-pager.inc.php/1.2/Thu Sep  6 16:02:44 2007//
+/adodb-pear.inc.php/1.2/Thu Sep  6 16:02:44 2007//
+/adodb-perf.inc.php/1.2/Thu Sep  6 16:02:44 2007//
+/adodb-php4.inc.php/1.2/Thu Sep  6 16:02:44 2007//
+/adodb-time.inc.php/1.2/Thu Sep  6 16:02:43 2007//
+/adodb-time.zip/1.1/Wed Jun  6 15:29:16 2007/-kb/
+/adodb-xmlschema.inc.php/1.2/Thu Sep  6 16:02:44 2007//
+/adodb.inc.php/1.2/Thu Sep  6 14:59:27 2007//
+/debug/1.1/Wed Jun  6 15:29:16 2007/-kb/
+/license.txt/1.2/Thu Sep  6 16:02:44 2007//
+/pivottable.inc.php/1.2/Thu Sep  6 16:02:44 2007//
+/readme.txt/1.1/Wed Jun  6 15:29:16 2007//
+/rsfilter.inc.php/1.2/Thu Sep  6 16:02:44 2007//
+/server.php/1.2/Thu Sep  6 16:02:44 2007//
+/toexport.inc.php/1.2/Thu Sep  6 16:02:45 2007//
+/tohtml.inc.php/1.2/Thu Sep  6 16:02:45 2007//
+D/contrib////
+D/cute_icons_for_site////
+D/datadict////
+D/docs////
+D/drivers////
+D/lang////
+D/pear////
+D/perf////
+D/session////
+D/tests////
+D/xsl////
